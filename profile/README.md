@@ -1,13 +1,10 @@
 # Telechips-Embedded-Project
 ## 임베디드 리눅스 기반 지능형 인포테인먼트 시스템 개발
 
-![467019868-258bf610-9b82-4460-9ffa-86d8eb01cc79](https://github.com/user-attachments/assets/1272f89d-586e-4fb6-8d2c-c4b829a16a5a)
+<img width="1129" height="633" alt="image" src="https://github.com/user-attachments/assets/cfaee1e8-2e48-4535-ae45-1f58b560117c" />
+<img width="1125" height="636" alt="image" src="https://github.com/user-attachments/assets/0488ba32-74a2-43cd-9acb-2820d0cadfd5" />
 
-## QT GUI 구현
-<이미지 첨부>
+<img width="1127" height="633" alt="image" src="https://github.com/user-attachments/assets/9cfc7c00-dfd1-4f9a-afac-bf9cedb2ee04" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3ce7bcee-a46c-4fc6-962c-b908e2f6fbf4" />
 
-## 센서 기반 자동 제어 구현
-<영상, GIF 이미지 첨부>
-
-## LLM 음성 제어 구현
-<이미지 첨부>
+<img width="1128" height="632" alt="image" src="https://github.com/user-attachments/assets/714af8e3-3e5c-499e-9298-480daccc0824" />
