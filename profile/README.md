@@ -23,7 +23,7 @@ Sensor-based automatic device control. <br>
 | --- | --- | --- |
 | <img width="464" height="474" alt="스크린샷_2025-09-13_오후_2 36 36-removebg-preview" src="https://github.com/user-attachments/assets/07773ecf-9cf3-4055-b645-217b52cc5388" /> | <img width="446" height="234" alt="스크린샷_2025-09-13_오후_2 36 51-removebg-preview" src="https://github.com/user-attachments/assets/ab7932cf-0730-414a-918e-497347691988" /> |<img width="162" height="389" alt="스크린샷_2025-09-13_오후_2 39 41-removebg-preview" src="https://github.com/user-attachments/assets/ba0db9e0-9de4-4279-8e7e-f6a632d58a5a" />
 
-
+<br>
 
 ## Team Members
-<img width="947" height="752" alt="스크린샷 2025-09-13 오후 12 25 15" src="https://github.com/user-attachments/assets/72a2d04a-2f56-4046-add1-9785589a757a" />
+<img width="847" height="652" alt="스크린샷 2025-09-13 오후 12 25 15" src="https://github.com/user-attachments/assets/72a2d04a-2f56-4046-add1-9785589a757a" />
