@@ -26,4 +26,4 @@ Sensor-based automatic device control. <br>
 <br>
 
 ## Team Members
-<img width="847" height="652" alt="스크린샷 2025-09-13 오후 12 25 15" src="https://github.com/user-attachments/assets/72a2d04a-2f56-4046-add1-9785589a757a" />
+<img width="947" height="752" alt="스크린샷 2025-09-13 오후 12 25 15" src="https://github.com/user-attachments/assets/72a2d04a-2f56-4046-add1-9785589a757a" />
