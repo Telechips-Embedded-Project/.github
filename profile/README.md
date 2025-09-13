@@ -1,5 +1,7 @@
 # Telechips-Embedded-Project
 ## 임베디드 리눅스 기반 지능형 인포테인먼트 시스템 개발
+![IMG_8184](https://github.com/user-attachments/assets/24e0c479-92f5-4425-8de3-47a976a14038)
+<br>
 
 <img width="1129" height="633" alt="image" src="https://github.com/user-attachments/assets/cfaee1e8-2e48-4535-ae45-1f58b560117c" />
 <img width="1107" height="587" alt="image" src="https://github.com/user-attachments/assets/2b4156a7-720c-49ef-a509-089706d5e3d3" />
