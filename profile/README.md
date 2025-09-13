@@ -18,12 +18,10 @@ Sensor-based automatic device control. <br>
 
 ## Development Environment
 
-| **TOPST D3-P([Settings](https://github.com/topst-development/Documentation/tree/main/Single%20Board%20Computer/P%20Model/D3-P))** | **VCP-G([Settings](https://github.com/topst-development/Documentation/tree/main/Single%20Board%20Computer/G%20Model/VCP-G))** | **STM32 NUCLEO** |
+| **TOPST D3-P(https://github.com/topst-development/Documentation/tree/main/Single%20Board%20Computer/P%20Model/D3-P)** | **VCP-G([Settings](https://github.com/topst-development/Documentation/tree/main/Single%20Board%20Computer/G%20Model/VCP-G))** | **STM32 NUCLEO** |
 | --- | --- | --- | --- |
-| <img width="232" height="237" alt="스크린샷 2025-09-13 오후 2 36 36" src="https://github.com/user-attachments/assets/2a1113cc-29ef-43f9-938d-463eca822fd1" />
- | <img width="117" height="223" alt="스크린샷 2025-09-13 오후 2 36 51" src="https://github.com/user-attachments/assets/5be13c47-6f35-44e7-8936-4cf3dbc36574" />
- | <img width="363" height="690" alt="스크린샷 2025-09-13 오후 2 39 41" src="https://github.com/user-attachments/assets/cfa2cd08-b9a7-4b4c-9392-22f6e842a388" />
- |
+| <img width="232" height="237" alt="스크린샷 2025-09-13 오후 2 36 36" src="https://github.com/user-attachments/assets/2a1113cc-29ef-43f9-938d-463eca822fd1" /> | <img width="223" height="117" alt="스크린샷 2025-09-13 오후 2 36 51" src="https://github.com/user-attachments/assets/1a13f77c-7839-4377-af36-c711d0c475e4" />
+ | <img width="363" height="690" alt="스크린샷 2025-09-13 오후 2 39 41" src="https://github.com/user-attachments/assets/cfa2cd08-b9a7-4b4c-9392-22f6e842a388" /> |
 
 
 
